@@ -1,3 +1,12 @@
+<!-- Floating WhatsApp -->
+<a href="https://wa.me/917011012884"
+   class="floating-whatsapp"
+   target="_blank"
+   aria-label="Chat on WhatsApp">
+    <span class="whatsapp-ripple"></span>
+    <i class="fa-brands fa-whatsapp"></i>
+</a>
+
 <!--===== FOOTER AREA STARTS =======-->
 <div class="vl-footer5-section-area">
   <div class="container">
