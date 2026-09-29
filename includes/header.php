@@ -29,11 +29,11 @@
           <div class="vl-main-menu text-center">
             <nav class="vl-mobile-menu-active">
               <ul>
-                <li class="has-dropdown">
-                  <a href="index.php">Home</a>
+                <li>
+                  <a href="/">Home</a>
 
                 </li>
-                <li class="has-dropdown">
+                <li>
                   <a href="about.php">About Us</a>
 
                 </li>
@@ -46,18 +46,13 @@
                     <li><a href="audit-accounting.php" class="span-arrow">Audit And Accounting</a>
                     <li><a href="rbi-compliances.php" class="span-arrow">RBI Compliances</a>
                     <li><a href="compliances.php" class="span-arrow">Compliances</a>
-                      <!-- <ul class="sub-menu menu1">
-                        <li><a href="service-left.html">Service Left</a></li>
-                        <li><a href="service-right.html">Service Right</a></li>
-                        <li><a href="service-single.html">Service Single</a></li>
-                      </ul> -->
                     </li>
                   </ul>
                 </li>
                 <li><a href="team.php">Our Team</a>
                 </li>
-                <li><a>Blogs</a>
-                </li>
+                <!-- <li><a>Blogs</a>
+                </li> -->
 
                 <li><a href="contact.php">Contact Us</a></li>
               </ul>
@@ -113,7 +108,7 @@
         <div class="space20"></div>
         <span><a href="tel:+91 7011012884"> <i class="fa-regular fa-envelope"></i> +91 7011012884</a></span>
         <span><a href="mailto:kavitagupta2909@gmail.com"><i class="fa-solid fa-phone"></i> kavitagupta2909@gmail.com</a></span>
-        <span><a><i class="fa-solid fa-location-dot"></i> 40 Ekjot Appartment, Pitampura Delhi - 110034</a></span>
+        <span><a><i class="fa-solid fa-location-dot"></i> 49 Ekjot Appartment, Pitampura Delhi - 110034</a></span>
       </div>
       <div class="space20"></div>
       <div class="vl-offcanvas-social">

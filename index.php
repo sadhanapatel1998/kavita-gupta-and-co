@@ -217,7 +217,6 @@
                                 <img src="assets/img/all-images/about/about-img13.png" alt="">
                             </div>
                         </div>
-
                         <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1100">
                             <div class="space60 d-lg-block d-none"></div>
                             <div class="img1">
