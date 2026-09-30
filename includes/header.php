@@ -70,6 +70,11 @@
                 <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
                 <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
+                <li>
+                  <a href="https://wa.me/917011012884" target="_blank" class="m-0">
+                    <i class="fa-brands fa-whatsapp"></i>
+                  </a>
+                </li>
               </ul>
             </div>
           </div>
@@ -118,6 +123,9 @@
         <a href="#"><i class="fab fa-twitter"></i></a>
         <a href="#"><i class="fab fa-linkedin-in"></i></a>
         <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="https://wa.me/917011012884" target="_blank" class="m-0">
+          <i class="fa-brands fa-whatsapp"></i>
+        </a>
       </div>
 
     </div>

@@ -52,22 +52,21 @@
 
                             ABOUT THE FIRM
 
+
+
                         </h2>
 
                         <div class="space24"></div>
 
                         <p style="text-align: justify;">
                             The firm Kavita Gupta & CO. started its working in the year 2020 in Delhi. We provide professional corporate law services to Companies in India or outside India. Since inception, our aim has been to achieve client satisfaction in all respects, be it time, money or efforts. The firm is Peer Reviewed with its Certificate No.................
-
                             We are Skilled in incorporation of companies and LLPs, drafting of legal documents, conducting board and general meetings, and maintaining statutory records. Adept at preparing and filing forms with ROC, handling trademark registrations, and providing advisory services on corporate governance and legal structuring.
-
                         </p>
 
                         
 
                         <p style="text-align: justify;">
                             Known for a detail-oriented approach, timely execution of assignments, and maintaining high standards of professionalism and confidentiality. Committed to delivering practical and compliant solutions to clients while ensuring smooth business operations.
-
                             I with my professional associates, colleagues and staff members carrying out various types of corporate & professional services in the field of Corporate Laws, Finance & Accounting, Secretarial Compliances, Corporate Governance, Corporate Social Responsibility and allied services.
 
                         </p>
