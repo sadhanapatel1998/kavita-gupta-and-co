@@ -28,13 +28,11 @@
      <!--===== TEAM AREA STARTS =======-->
     <div class="team1-section-area sp2">
         <div class="container">
-
             <div class="row g-4">
-
                 <div class="col-lg-3 col-md-6">
                     <div class="team-newcard">
                         <div class="team-newcard-imgwrap">
-                            <img src="assets/img/girl.jpg" alt="Kavita Gupta">
+                            <img src="assets/img/team/kavita-gupta.jpg" alt="Kavita Gupta">
                             <!-- <div class="team-newcard-overlay">
                                 <ul class="team-newcard-social">
                                     <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
@@ -76,7 +74,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="team-newcard">
                         <div class="team-newcard-imgwrap">
-                            <img src="assets/img/girl.jpg" alt="Neha Garg">
+                            <img src="assets/img/team/neha-garg.jpg" alt="Neha Garg">
                             <!-- <div class="team-newcard-overlay">
                                 <ul class="team-newcard-social">
                                     <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>

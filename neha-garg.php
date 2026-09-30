@@ -35,15 +35,15 @@
         <div class="container">
             <div class="row align-items-center">
 
-                <div class="col-lg-5">
+                <div class="col-lg-4">
                     <div class="team-images">
                         <!-- <img src="assets/img/team/kavita-gupta.jpg" alt="" class="img-fluid"> -->
-                         <img src="assets/img/all-images/others/mission-img1.png" alt="">
+                         <img src="assets/img/team/neha-garg.jpg" alt="Neha Garg" class="rounded-3">
 
                     </div>
                 </div>
 
-                <div class="col-lg-7">
+                <div class="col-lg-8">
                     <div class="team-content heading5">
 
                         <!-- <h5>About</h5> -->
